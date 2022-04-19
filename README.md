@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, React and Rust**
 
-- 📫 How to reach me **victor470hugo@gmail.com or victor.silvaPC@hotmail.com**
+- 📫 How to reach me **victor470hugo@gmail.com, victor.silvaPC@hotmail.com or victor.silva@ax4b.com**
 
 <br/>
 
